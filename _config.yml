@@ -17,7 +17,7 @@ baseurl: ""
 title: Nayan Doshi - Aspiring Data Scientist
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: A way to show my data science know how through the prism of how I see the world!
 
 # --- Navigation bar options --- #
 
@@ -68,10 +68,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+  email: "nayandoshi@gmail.com"
 #  facebook: daattali
   github: ndoshi83
-#  twitter: daattali
+  twitter: @TheDoshi83
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
