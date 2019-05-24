@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: I enjoy digging to mountains of data to find trends and stories that may not be seen otherwise!
+subtitle: I enjoy digging through mountains of data to find trends and stories that may not be seen otherwise!
 ---
 
 My name is Nayan Doshi.
