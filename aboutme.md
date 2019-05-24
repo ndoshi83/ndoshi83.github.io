@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I enjoy digging to mountains of data to find trends and stories that may not be seen otherwise!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Nayan Doshi.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I enjoy golf
+- I'm a sports junkie
+- I hope to use my data science knowledge to win my fantasy football league once
 
-What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have been in Southern California all of my life. I am married and have one kid. I am currently attending Lambda School to beef up my chops in Data Science.
